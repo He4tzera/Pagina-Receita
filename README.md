@@ -4,8 +4,7 @@
 
 ## 🚀 Tecnologias Usadas
 
-Expand All
-	@@ -15,7 +15,7 @@ Simples site de uma receita de Waffle Classico
+HTML, CSS, GIT e GITHUB
 
 ## 🔖 Layout
 
